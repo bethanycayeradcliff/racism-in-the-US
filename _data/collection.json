@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Racism in the United States" ] },
+    "summary": { "en": [ "A collaborative set of annotations on recordings related to racism in the United States. " ] },
+    "items": [
+    ]
+}
