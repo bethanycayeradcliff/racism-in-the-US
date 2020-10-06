@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "(R_0124_01_01 ) - "Criminal Syndicalism" case, McComb, Mississippi - John Beecher Collection" ] },
+    "label": { "en": [ "(R_0124_01_01 ) - Criminal Syndicalism case, McComb, Mississippi - John Beecher Collection" ] },
     "homepage": [
       {
         "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/33",
         "type": "Text",
-        "label": { "en": [ "Home page for (R_0124_01_01 ) - "Criminal Syndicalism" case, McComb, Mississippi - John Beecher Collection" ] },
+        "label": { "en": [ "Home page for (R_0124_01_01 ) - Criminal Syndicalism case, McComb, Mississippi - John Beecher Collection" ] },
         "format": "text/html"
       }
     ],
