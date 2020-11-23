@@ -1,0 +1,911 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test.json",
+  "type": "AnnotationPage",
+  "label": "test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Whether you threw a brick or didn't, the fact still remains that he used you as a tool, as an instrument. He made something of a thing of you. Because he was trying, by keeping you in jail, by setting a bond at 5/000 finally reducing it to 500, to strike fear in the hearts of your parents, and other people in the community.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "sigh here?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1:24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "He was trying to cut off one segment of the Negroes in Mccomb from another segment",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You were used. Some of  you no doubt will be bitter about it. I know a lot of people were bitter the night that the [or our?] houses were bombed. Bitterness alone is not going to suffice. If you're angry, good. You have right to be angry. The question now is not whether you're angry or you dislike somebody, but whether or not you will take actions take steps to change the kind of city and county where people can be held in jail for things like this, where they can create a law to arrest any negro or any white person in the movement on just about any charge they want to and they you know, give it an nice sounding name. They say \"syndicalism.\" Some of us [unclear] stumble over it [when we couldn't?] pronounce the word. But it still basically means that anyone who tries to 2ork for justic in our socuety is doing something against the law. This is ironic, this is a mockery. You know. During the next few weeks, months, or years, everyone here, in Mississippi and in the south is going to be embroiled in a battle, and you're going to have to do something.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1:56"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I know a lot of people were bitter the night that our houses were bombed",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker (Beecher) says that the question is whether or not the community will take steps to make change when ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2:24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They give it a nice sounding name-- they say \"syndicalism\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2:46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[unclear] include many things. As students. you're going to have to speak in your community and perhaps out of your community. Tell people what's happening, to tell people why they must try and change this. Those of you who are students are still at the same time going to have to be working very hard at your studies so that you aren't losing ground there as you're trying to win it over in another field. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3:17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You're going to have to be out canvasing, talking to people, doing something to bring about justice, unless you enjoyed being in jail",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3:43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "If you didn't enjoy it then you must do something to change it and that's simply turn your back and say \"it can't happen again\" cause it can happen again and it might happen tomorrow.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3:49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "unless you're ready to do something ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tape gets louder here",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4:03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "plus you, your friends and your parents are ready to band together as a united people seeking to bring about a full good free society and world in which to live",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4:04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"If your parents and you were voters, this could not have happened to you\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4:34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Is Beecher trying to intimidate/threaten or maybe blame the issue?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4:52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"We're hoping that all of you....will be at the rally on Sunday\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5:12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "people entering room ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5:21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "can hear some people enter the room, chairs being pulled out ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5:31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "someone in room walking by - \"excuse me\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5:40"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dennis begins speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5:54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I was out in a day\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "6:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I thought...what you must be thinking about and how it must make you feel to know that, you know, a white civil rights worker can be picked up and out of jail in a day when you have to stay in jail and stay in jail and say in jail. And, it's not fair, it's.. I don't know what to say about it, except that that's why we're down here, and we're not gonna leave, until such a time arrives that, you know, people aren't treated that way. In other words, you know, I wasn't bailed out, i was just released. They tried to get ALS (?) to testify against me and fortunately, he-he was courageous enough in the face of Sheriff Warren and attorney reeves to not do that kind of thing and so they had a drop the charges and let me go. But, um I just want to apologize for the way that system works in that particular case and I know how you must feel and um that's really why you know we're here. um the only thing -- the only question i have was about ALS and he's told me already some of the things they said. I think it would be important later on if John could get an affidavit from AlS as to what reeves said to him. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "6:09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker changes",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7:34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"All I want to say is, welcome back\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7:34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Response from those in room",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7:36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "person in room - \"yes, Lord\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7:45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Maybe if you--after you've had a chance to sleep on your own beds and uh--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience response",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"--among real friends\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience member responds (unclear -- sounds like \"fancy looking group\")",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "speaker changes: one of the formerly incarcerated students shares concern that as they were leaving the jail, an authority said they should appear every day until the case is closed",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker responds: \"We will check with our lawyer to make absolutely certain...to find out because we don't want them pulling you back in on a technicality. They will try to do something as asinine as that but uh, we want to check that out\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8:41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker asks about conditions for children and their parents who attempted to visit",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas shares story of trying to visit her son",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"that was Mrs. Thomas\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"They wouldn't even let my father give me not clothes or nothing\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9:50"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"They wouldn't even let me talk to nobody\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9:55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Willa B. Haynes tried to talk to me and they said no\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9:58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Give your name as you say this\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10:04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Louise Banks -- they wouldn't even let me talk to nobody, the whole 30 days\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10:07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"They let my uncle come one time and they told him to hurry up because they didn't have but a few seconds\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10:14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"wow\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10:21"
+        }
+      }
+    }
+  ]
+}
