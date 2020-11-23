@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1005.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas/test.json",
+            "label": "test"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/paintings",
@@ -36,7 +44,7 @@
                   "id": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll1/34.mp3/byte/json",
                   "type": "Sound",
                   "format": "audio/mp3",
-                  "duration": 1005.0
+                    "duration": 1005.0
                 },
                 "target": "https://bethanycayeradcliff.github.io/racism-in-the-US/-r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi-john-beecher-collection/canvas-1/canvas"
               }
