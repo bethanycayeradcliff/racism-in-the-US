@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/beecher-side1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Beecher-side1" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Home page for Beecher-side1" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/beecher-side1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/beecher-side1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/beecher-side1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/testing-with-cdm-edit/#?c=&m=&s=&cv=",
+                    "duration": 1005.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/racism-in-the-US/beecher-side1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
