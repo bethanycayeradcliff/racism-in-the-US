@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/testing-cdm-edit-audio-different-link/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "testing-cdm-edit-audio-different-link" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Home page for testing-cdm-edit-audio-different-link" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/testing-cdm-edit-audio-different-link/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1005.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/testing-cdm-edit-audio-different-link/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/racism-in-the-US/testing-cdm-edit-audio-different-link/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://hrc.contentdm.oclc.org/utils/getstream/collection/p15878coll1/id/33",
+                    "duration": 1005.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/racism-in-the-US/testing-cdm-edit-audio-different-link/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
